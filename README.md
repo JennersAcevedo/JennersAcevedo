@@ -3,7 +3,7 @@
 Full-Stack Software Developer (since 2019) focused on building scalable web + mobile products.
 
 - 🧠 Main stack: **Node.js / NestJS**, **React / Next.js**, **React Native**
-- 🗄️ Databases: **PostgreSQL**, Sequelize
+- 🗄️ Databases: **PostgreSQL**, SqlServer, MongoDB, Oracle, MySql
 - ☁️ Cloud/DevOps: **Docker**, **AWS (Lambda, ECS/Copilot)**, CI/CD
 - 🧾 Strong experience with **PDF generation/editing** (e.g., `pdf-lib`) and backend automation
 
@@ -19,7 +19,7 @@ Full-Stack Software Developer (since 2019) focused on building scalable web + mo
 ## 🧰 Tech I use
 **Backend:** NestJS, Node.js, Express, REST APIs  
 **Frontend:** Next.js, React, React Native  
-**DB:** PostgreSQL, Sequelize  
+**DB:** PostgreSQL,  SqlServer, MongoDB,
 **Tools:** Docker, GitHub Actions, AWS, Linux  
 **PDF:** pdf-lib, form field mapping, generation/editing from backend  
 
